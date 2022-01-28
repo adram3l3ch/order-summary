@@ -7,10 +7,6 @@
     letter-spacing: 0.01em;
 }
 
-:root {
-    font-size: calc(1rem - 3px);
-}
-
 body {
     display: flex;
     align-items: center;
